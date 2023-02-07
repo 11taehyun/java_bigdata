@@ -3,7 +3,7 @@ package human;
 /**
  * 자바 프로그램 첫번째 예제
  * @author h
- *
+ *      
  */
 public class Test { 
 	// 클래스 선언 : public class 클래스명 { }
